@@ -1,0 +1,3 @@
+Using "with" keyword in python for file Handling?
+Because it's usefull for closing the file autometically no need to close it by manually.
+Which really help for better modular code for a specific file handling situations.
